@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 97aa173c9db01164a80d7262b4b6a415
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - digestiveCell: {fileID: 276946373155587630, guid: 6a5739354de2df94cb81e39f8f96410d,
+      type: 3}
+  - flagelloCell: {fileID: 8954016579479727230, guid: 800c21d0ea7707d47b235e4f8ba918b0,
+      type: 3}
+  - organism: {fileID: 3926932442480274058, guid: 9251ba7751af603479cd6acd21cd826e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
